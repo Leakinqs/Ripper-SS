@@ -1,0 +1,242 @@
+ComSpec=C:\Windows\system32\cmd.exe
+\??\C:\Windows\system32\csrss.exe
+C:\Program Files\SystemInformer\SystemInformer.exe
+ComSpec=C:\Windows\system32\cmd.exe
+C:\Program Files\WindowsApps\Microsoft.WindowsStore_22303.1401.7.0_x64__8wekyb3d8bbwe\WinStore.DesktopExtension\StoreDesktopExtension.exe
+.exe
+C:\Windows\System32\Upfc.exe
+C:\Windows\system32\lsass.exe
+C:\Windows\System32\spoolsv.exe
+C:\Windows\system32\svchost.exe
+C:\Windows\RtkBtAudioServ.exe
+C:\Windows\system32\msiexec.exe
+C:\Windows\system32\DrvInst.exe
+C:\Windows\RtkBtManServ.exe
+C:\Windows\system32\dashost.exe
+\??\C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+C:\Windows\System32\oobe\UserOOBEBroker.exe
+C:\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_1.3.20.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+C:\Windows\System32\DriverStore\FileRepository\hpanalyticscomp.inf_amd64_5bf497d20ce7fee9\x64\TouchpointAnalyticsClientService.exe
+C:\Program Files\NVIDIA Corporation\Update Core\NvProfileUpdater64.exe
+C:\Program Files (x86)\Google\Update\1.3.36.242\GoogleCrashHandler.exe
+C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+C:\Program Files\SystemInformer\SystemInformer.exe
+C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+C:\Program Files\NVIDIA Corporation\NvBackend\NvTmRep.exe
+C:\Windows\System32\DTS\PC\APO3x\DTSAPO3Service.exe
+C:\Program Files\NordUpdater\NordUpdateService.exe
+C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+C:\Program Files (x86)\hide.me VPN\hidemesvc.exe
+C:\Program Files (x86)\Windscribe\WindscribeService.exe
+C:\Windows\SoftwareDistribution\Download\Install\AM_Delta_Patch_1.389.2132.0.exe
+C:\Windows\SoftwareDistribution\Download\Install\AM_Delta_Patch_1.389.2356.0.exe
+C:\Windows\SoftwareDistribution\Download\Install\AM_Delta_Patch_1.389.2214.0.exe
+C:\Windows\System32\DriverStore\FileRepository\lms.inf_amd64_fddb643595e0b8d0\LMS.exe
+C:\Windows\explorer.exe
+C:\Windows\System32\DriverStore\FileRepository\nvhdc.inf_amd64_fce49bc0c4be637a\Display.NvContainer\NVDisplay.Container.exe
+C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.19.10173.0_x64__8wekyb3d8bbwe\WindowsPackageManagerServer.exe
+C:\Program Files\WindowsApps\Microsoft.GamingServices_12.77.3001.0_x64__8wekyb3d8bbwe\GamingServicesTcui\GamingServicesTcui.exe
+C:\Windows\System32\schtasks.exe
+C:\Windows\System32\wsqmcons.exe
+C:\Windows\System32\WUDFHost.exe
+C:\Windows\system32\taskhostw.exe
+C:\Windows\system32\wbem\wmiprvse.exe
+C:\Windows\system32\SearchIndexer.exe
+C:\Windows\system32\services.exe
+C:\Windows\system32\rundll32.exe
+C:\Windows\system32\wevtutil.exe
+C:\Windows\system32\wbem\unsecapp.exe
+C:\Windows\SysWOW64\XtuService.exe
+C:\Windows\system32\cleanmgr.exe
+C:\Windows\system32\ProvTool.exe
+C:\Windows\System32\RuntimeBroker.exe
+C:\Windows\system32\MpSigStub.exe
+C:\Windows\system32\rundll32.exe
+C:\Windows\System32\BdeUISrv.exe
+C:\Windows\system32\WerFault.exe
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_35a44174e1abc767\x64\BridgeCommunication.exe
+C:\Windows\System32\DriverStore\FileRepository\iclsclient.inf_amd64_76523213b78d9046\lib\TPMProvisioningService.exe
+C:\Windows\System32\DriverStore\FileRepository\hpomencustomcapcomp.inf_amd64_e711c85c03558fc4\x64\OmenCap\OmenCap.exe
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2304.8-0\MsMpEng.exe
+C:\Users\layne\AppData\Local\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe
+C:\Users\layne\AppData\Local\Microsoft\OneDrive\23.091.0430.0001\FileCoAuth.exe
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2304.8-0\MpCmdRun.exe
+C:\Program Files (x86)\Google\Update\1.3.36.242\GoogleCrashHandler64.exe
+C:\Program Files\Google\Chrome\Application\113.0.5672.127\elevation_service.exe
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2304.8-0\NisSrv.exe
+C:\Windows\system32\DriverStore\FileRepository\nvhdc.inf_amd64_fce49bc0c4be637a\dbInstaller.exe
+C:\Program Files\WindowsApps\Microsoft.4297127D64EC6_1.2.4.0_x64__8wekyb3d8bbwe\Minecraft.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe
+C:\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_1.3.20.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackgroundLauncher.exe
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_35a44174e1abc767\x64\SysInfoCap.exe
+}C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_35a44174e1abc767\x64\AppHelperCap.exe
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_35a44174e1abc767\x64\NetworkCap.exe
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_35a44174e1abc767\x64\DiagsCap.exe
+\\?\C:\Windows\system32\wbem\WMIADAP.EXE
+C:\Program Files\NordVPN\nordvpn-service.exe
+C:\Program Files\Everything\Everything.exe
+C:\Program Files\OpenVPN\bin\openvpnserv.exe
+C:\Windows\explorer.exe
+\??\C:\Windows\explorer.exe
+C:\Windows\explorer.exe
+\??\C:\Windows\explorer.exe
+C:\Windows\system32\SearchProtocolHost.exe
+C:\Windows\System32\SecurityHealthHost.exe
+C:\Windows\system32\SearchFilterHost.exe
+C:\Windows\system32\SecurityHealthService.exe
+C:\Program Files\SystemInformer\SystemInformer.exe
+C:\Windows\system32\wbem\wmiprvse.exe
+\??\C:\Windows\system32\wbem\wmiprvse.exe
+C:\Windows\system32\wbem\wmiprvse.exe
+\??\C:\Windows\system32\wbem\wmiprvse.exe
+rosoft.C:\Windows\system32\conhost.exe
+.exe
+C:\Windows\system32\cmd.exe
+C:\Windows\TEMP\nsd39D9.tmp.exe
+C:\Windows\system32\wuauclt.exe
+C:\Windows\system32\wermgr.exe
+C:\Windows\system32\sc.exe
+
+C:\Windows\system32\ctfmon.exe
+C:\Windows\system32\AUDIODG.EXE
+C:\Windows\TEMP\nsz6157.tmp.exe
+C:\Windows\system32\ApplicationFrameHost.exe
+C:\Windows\System32\RtkAudUService64.exe.Config
+C:\Windows\System32\RtkAudUService64.exe
+\??\C:\Windows\system32\svchost.exe.Config
+C:\Windows\System32\RuntimeBroker.exe.Config
+C:\Program Files\SystemInformer\SystemInformer.exe
+e\??\C:\Program Files\SystemInformer\SystemInformer.exe
+C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_b5484efd38adbe8d\jhi_service.exe
+C:\Users\layne\AppData\Local\Programs\Microsoft VS Code\Code.exe
+x\??\C:\Users\layne\AppData\Local\Programs\Microsoft VS Code\Code.exe
+C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+\??\C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+\??\C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+\??\C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+\??\C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+C:\Users\layne\AppData\Local\Programs\Microsoft VS Code\Code.exe
+x\??\C:\Users\layne\AppData\Local\Programs\Microsoft VS Code\Code.exe
+.exe
+C:\Windows\System32\
+C:\Windows\TEMP\nsv54C1.tmp.exe
+C:\Windows\system32\srtasks.exe
+C:\Windows\TEMP\nsu2B9E.tmp.exe
+C:\Windows\system32\consent.exe
+C:\Windows\system32\makecab.exe
+C:\Windows\system32\vssvc.exe
+}C:\Windows\TEMP\nsi9FE8.tmp.exe
+C:\Windows\TEMP\nsxB9A9.tmp.exe
+C:\Windows\system32\taskmgr.exe
+C:\Users\layne\AppData\Local\Programs\Microsoft VS Code\Code.exe
+C:\Users\layne\AppData\Local\Temp\scoped_dir17560_879692266\Ocean.exe
+C:\Windows\system32\consent.exe
+\??\C:\Windows\system32\consent.exe
+C:\Windows\SysWOW64\DllHost.exe
+\??\C:\Windows\SysWOW64\DllHost.exe
+C:\Windows\system32\svchost.exe
+\??\C:\Windows\system32\svchost.exe
+C:\Windows\SysWOW64\DllHost.exe
+\??\C:\Windows\SysWOW64\DllHost.exe
+C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe
+C:\Users\layne\AppData\Local\Programs\Opera\launcher.exe
+C:\Program Files (x86)\NETGEAR\Remote\bin\lnhttpservice.exe
+C:\Program Files (x86)\Common Files\Steam\steamservice.exe
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\NGenTask.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_3fe14bedeb9ca7a2\x64\DiagsCap.exe
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_3fe14bedeb9ca7a2\x64\AppHelperCap.exe
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_3fe14bedeb9ca7a2\x64\NetworkCap.exe
+
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_3fe14bedeb9ca7a2\x64\HPDCSetup.exe.Config
+
+C:\Windows\System32\DriverStore\FileRepository\iclsclient.inf_amd64_76523213b78d9046\lib\IntelPTTEkRecertification.exe
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_3fe14bedeb9ca7a2\x64\BridgeCommunication.exe
+C:\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_1.3.20.0_x64__v10z8vjag6ke6\SystemEventUtility\CmdHelper.exe
+C:\Program Files\WindowsApps\Microsoft.YourPhone_1.23032.196.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_35a44174e1abc767\x64\HPDCSetup.exe
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_3fe14bedeb9ca7a2\x64\SysInfoCap.exe
+C:\Windows\SysWOW64\PickerHost.exe
+C:\Windows\system32\consent.exe.Config
+C:\Windows\system32\devicecensus.exe
+C:\Windows\System32\PickerHost.exe
+C:\Windows\System32\svchost.exe.Config
+C:\Windows\system32\lpremove.exe
+
+C:\Windows\system32\OpenWith.exe
+C:\Windows\system32\svchost.exe.Config
+C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10041.0_x64__8wekyb3d8bbwe\MPMigration.exe
+\??\C:\Program Files\SystemInformer\SystemInformer.exe.Config
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorsvw.exe
+C:\Program Files\SystemInformer\SystemInformer.exe.Config
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe.Manifest
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_3fe14bedeb9ca7a2\x64\HPDCSetup.exe
+C:\Program Files\Epic Games\Fortnite\FortniteGame\Binaries\Win64\EasyAntiCheat\EasyAntiCheat_EOS_Setup.exe
+
+C:\Program Files\SystemInformer\SystemInformer.exe
+
+\??\C:\Windows\System32\RuntimeBroker.exe.Config
+\??\C:\Program Files\SystemInformer\SystemInformer.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+C:\Riot Games\Riot Client\RiotClientServices.exe
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_3fe14bedeb9ca7a2\x64\HPDCSetup.exe
+\??\C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_3fe14bedeb9ca7a2\x64\HPDCSetup.exe
+C:\Program Files\WindowsApps\Microsoft.YourPhone_1.23032.196.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+\??\C:\Program Files\WindowsApps\Microsoft.YourPhone_1.23032.196.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_3fe14bedeb9ca7a2\x64\HPDCSetup.exe
+\??\C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_3fe14bedeb9ca7a2\x64\HPDCSetup.exe
+C:\Program Files\WindowsApps\12030rocksdanister.LivelyWallpaper_1.0.134.0_x86__97hta09mmv6hy\Build\Lively.exe
+C:\Program Files\WindowsApps\12030rocksdanister.LivelyWallpaper_1.0.134.0_x86__97hta09mmv6hy\Build\Lively.exe
+C:\Windows\System32\RuntimeBroker.exe (ISPYWITHMYLITTL)
+\??\C:\Windows\system32\fontdrvhost.exe
+C:\Windows\explorer.exe
+C:\Program Files\WindowsApps\Microsoft.WindowsStore_22303.1401.7.0_x64__8wekyb3d8bbwe\WinStore.DesktopExtension\StoreDesktopExtension.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe
+C:\Windows\system32\svchost.exe
+\??\C:\Windows\system32\svchost.exe
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_35a44174e1abc767\x64\AppHelperCap.exe
+\??\C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_35a44174e1abc767\x64\AppHelperCap.exe
+C:\Windows\system32\DllHost.exe
+\??\C:\Windows\system32\DllHost.exe
+C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+\??\C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+\??\C:\Program Files (x86)\NVIDIA Corporation\NvNode\nvnodejslauncher.exe
+C:\Windows\system32\sihost.exe
+\??\C:\Windows\system32\sihost.exe
+\\?\C:\Windows\system32\wbem\WMIADAP.EXE
+\??\C:\Windows\system32\wbem\WMIADAP.EXE
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_3fe14bedeb9ca7a2\x64\HPDCSetup.exe
+\??\C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_3fe14bedeb9ca7a2\x64\HPDCSetup.exe
+C:\Windows\System32\DriverStore\FileRepository\nvhdc.inf_amd64_fce49bc0c4be637a\Display.NvContainer\NVDisplay.Container.exe
+\??\C:\Windows\System32\DriverStore\FileRepository\nvhdc.inf_amd64_fce49bc0c4be637a\Display.NvContainer\NVDisplay.Container.exe
+C:\Windows\system32\defrag.exe
+\??\C:\Windows\system32\defrag.exe
+C:\Windows\system32\AUDIODG.EXE
+\??\C:\Windows\system32\AUDIODG.EXE
+C:\Program Files (x86)\Microsoft GameInput\x64\gameinputsvc.exe
+\??\C:\Program Files (x86)\Microsoft GameInput\x64\gameinputsvc.exe
+C:\Windows\system32\dashost.exe
+\??\C:\Windows\system32\dashost.exe
+C:\Program Files\McAfee\WebAdvisor\updater.exe
+?\??\C:\Program Files\McAfee\WebAdvisor\updater.exe
+C:\Program Files\NVIDIA Corporation\ShadowPlay\nvsphelper64.exe
+\??\C:\Program Files\NVIDIA Corporation\ShadowPlay\nvsphelper64.exe
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2304.8-0\MpCmdRun.exe
+\??\C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2304.8-0\MpCmdRun.exe
+C:\Users\layne\OneDrive\Desktop\Ripper SS.exe
+C:\Windows\system32\ctfmon.exe
+\??\C:\Windows\system32\ctfmon.exe
+C:\Windows\system32\SearchFilterHost.exe
+e\??\C:\Windows\system32\SearchFilterHost.exe
+C:\Windows\system32\DrvInst.exe
+\??\C:\Windows\system32\DrvInst.exe
+C:\Program Files\SystemInformer\SystemInformer.exe
+e\??\C:\Program Files\SystemInformer\SystemInformer.exe
+C:\Users\layne\Downloads\hgay.exe
